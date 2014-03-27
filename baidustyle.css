@@ -1,0 +1,60 @@
+
+#menu li
+{
+display:inline;
+margin-right: 10px;
+}
+a:link {color:#0000CC;}		/* 未被访问的链接 */	
+a:hover {color:#0000CC;}	/* 鼠标指针移动到链接上 */
+a:visited {color:#0000CC;}
+input[type=text]
+{
+	width: 405px;
+	height: 34px;
+}
+input[type=submit]
+{
+	width: 95px;
+	height: 34px;
+}
+#fm
+{
+	padding-bottom: 15px;
+}
+#exband li
+{
+	display:inline;
+	margin-right: 10px;
+}
+#exband
+{
+	padding-bottom: 150px;
+}
+#foot1 li
+{
+	display:inline;
+	margin-right: 10px;
+}
+#foot1
+{
+	padding-bottom: 15px;
+	font-size: 13px;
+}
+#foot2
+{
+	padding-bottom: 10px;
+	font-size: 13px;
+}
+#footer li
+{
+	display:inline;
+	color: #666;
+}
+#footer a
+{
+	color: #666;
+}
+#footer
+{
+	font-size: 13px;
+}
