@@ -21,15 +21,7 @@ input[type=submit]
 {
 	padding-bottom: 15px;
 }
-#exband li
-{
-	display:inline;
-	margin-right: 10px;
-}
-#exband
-{
-	padding-bottom: 150px;
-}
+
 #foot1 li
 {
 	display:inline;
@@ -37,7 +29,8 @@ input[type=submit]
 }
 #foot1
 {
-	padding-bottom: 15px;
+	padding-top: 200px;
+	padding-bottom: 10px;
 	font-size: 13px;
 }
 #foot2
@@ -58,3 +51,30 @@ input[type=submit]
 {
 	font-size: 13px;
 }
+#ad { width:36px; height: 400px; position:fixed;right:50px;top:30% }
+
+#hide
+{
+	float: right;
+}
+.hide {
+	display:none;
+}
+table
+  {
+    margin:0 auto; /*表格居中*/
+	text-align:left;
+    border-collapse:collapse;
+    padding-top: 200px;
+  }
+
+table, td, th
+  {
+  padding : 8px;
+  padding-left: 20px;
+  border:1px solid #EEEEEE;
+  }
+td{
+ font-size:15px;
+ border:0px solid #FFFFFF;
+ }
